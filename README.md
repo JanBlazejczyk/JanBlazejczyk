@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanBlazejczyk
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, React and TypeScript
 - 📫 How to reach me: jb.blazejczyk@gmail.com
 
 <!---
